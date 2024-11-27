@@ -1,0 +1,55 @@
+.ministers{
+    width: 200px;
+    height: 250px;
+    
+}
+
+#modiPic{
+    position: relative;
+    left: 05px;
+    z-index: 10;
+}
+#rajnathSinghPic{
+    position: relative;
+    left: 75px;
+}
+#amitShahPic{
+    position: relative;
+    left:200px ;
+}
+#JPNadaPic{
+    position: relative;
+    right: 160px;
+    bottom: 1px;
+    top: 1px;
+    z-index:7 ;
+
+}
+#gadkariPic{
+    position: relative;
+    right: 90px;
+    z-index: 8;
+}
+
+.BJPLogo{
+    width: 100px;
+    position: fixed;
+    right: 0px;
+    filter: drop-shadow(10px 10px 10px);
+    z-index: 5;
+
+}
+.mainHeading{
+    background-color: orange;
+    border: 10px solid black;
+    position: relative;
+    filter: drop-shadow(10px 10px 10px);
+}
+
+#modisHeading{
+    background-color: orangered;
+    position: sticky;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+}
